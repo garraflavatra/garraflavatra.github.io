@@ -28,6 +28,10 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
 
   Don't your plants have enough water?
   
+* [Arduino Lie Detector](https://projects.romeinvanburen.nl/arduino_lie_detector/) ([`garraflavatra/arduino_lie_detector`](https://github.com/garraflavatra/arduino_lie_detector))
+
+  Check who's been eating your cookies with this Arduino setup.
+
 * Arduino Tea Maker (_coming soon_)
 
   Makes tea for you.
