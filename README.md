@@ -1,4 +1,11 @@
-Welcome! This is a list of open source GitHub-hosted projects I work on. Currently, this list consists of JavaScript libraries, CSS frameworks, Arduino projects and webapps. At the end, there is a list of archived projects.
+Welcome! This is a list of open source GitHub-hosted projects I work on. Currently, this list consists of:
+
+- [JavaScript libraries](#javascript-libraries)
+- [CSS frameworks](#css-frameworks)
+- [Raspberry Pi projects](#raspberry-pi-projects)
+- [Arduino projects](#arduino-projects)
+- [Webapps](#webapps)
+- [Archived projects](#archived)
 
 ## JavaScript libraries
 
@@ -17,6 +24,12 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
 * [Thunder calculator](https://thundercalc.romeinvanburen.nl/) ([`garraflavatra/thundercalculator`](https://github.com/garraflavatra/thundercalculator)
 
   A tool that can calculate how far you are away from the thunder.
+  
+## Raspberry Pi projects
+
+* [Raspberry Pi Birdbox Camera](https://projects.romeinvanburen.nl/rpi_birdbox_camera/) ([`garraflavatra/rpi_birdbox_camera`](https://github.com/garraflavatra/rpi_birdbox_camera))
+
+  Get live nest footage from your Raspberry Pi.
 
 ## [Arduino](https://www.arduino.cc) projects
 
