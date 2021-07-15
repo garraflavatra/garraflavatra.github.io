@@ -23,7 +23,7 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
   
 ## Webapps
 
-* [Thunder calculator](https://thundercalc.romeinvanburen.nl/) ([`garraflavatra/thundercalculator`](https://github.com/garraflavatra/thundercalculator)
+* [Thunder calculator](https://thundercalc.romeinvanburen.nl/) ([`garraflavatra/thundercalculator`](https://github.com/garraflavatra/thundercalculator))
 
   A tool that can calculate how far you are away from the thunder.
   
