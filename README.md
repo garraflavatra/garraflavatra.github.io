@@ -7,6 +7,8 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
 - [Webapps](#webapps)
 - [Archived projects](#archived)
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garraflavatra&layout=compact">
+
 ## JavaScript libraries
 
 * [Alphabets](https://projects.romeinvanburen.nl/alphabets/) ([`garraflavatra/alphabets`](https://github.com/garraflavatra/alphabets))
