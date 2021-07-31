@@ -1,6 +1,7 @@
 Welcome! This is a list of open source GitHub-hosted projects I work on. Currently, this list consists of:
 
 - [JavaScript libraries](#javascript-libraries)
+- [CLIs](#clis)
 - [CSS frameworks](#css-frameworks)
 - [Raspberry Pi projects](#raspberry-pi-projects)
 - [Arduino projects](#arduino-projects)
@@ -14,6 +15,12 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
 * [Alphabets](https://projects.romeinvanburen.nl/alphabets/) ([`garraflavatra/alphabets`](https://github.com/garraflavatra/alphabets))
   
   A tiny JS dependency which exports many alphabets for many use cases.
+  
+## CLIs
+
+* [Synfo](https://projects.romeinvanburen.nl/synfo/) ([`garraflavatra/synfo`](https://github.com/garraflavatra/synfo))
+
+  Node.js (TypeScript) program with which you can retrieve several types of system info (about hardware, software etc.).
   
 ## CSS frameworks
 
