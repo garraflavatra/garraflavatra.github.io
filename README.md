@@ -26,7 +26,7 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
 
 * [Minty](https://projects.romeinvanburen.nl/minty/) ([`garraflavatra/minty`](https://github.com/garraflavatra/minty))
   
-  The fresh theme for Bootstrpa 4 & 5.
+  The fresh theme for Bootstrap 4 & 5.
   
 ## Webapps
 
