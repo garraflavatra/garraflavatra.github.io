@@ -49,11 +49,11 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
 
 ## [Arduino](https://www.arduino.cc) projects
 
-* [Arduino Die Roller, cathode version](https://projects.romeinvanburen.nl/arduino_die_cathode/) ([`garraflavatra/arduino_die_roller`](https://github.com/garraflavatra/arduino_die_cathode))
+* [Arduino Die Roller, cathode version](https://projects.romeinvanburen.nl/arduino_die_cathode/) ([`garraflavatra/arduino_die_cathode`](https://github.com/garraflavatra/arduino_die_cathode))
 
   Roll a random number from 1 to 6.
   
-* [Arduino Plant Water Sensor](https://projects.romeinvanburen.nl/arduino_die_cathode/) ([`garraflavatra/arduino_die_roller`](https://github.com/garraflavatra/arduino_die_cathode))
+* [Arduino Plant Water Sensor](https://projects.romeinvanburen.nl/arduino_plant_water_sensor/) ([`garraflavatra/arduino_plant_water_sensor`](https://github.com/garraflavatra/arduino_plant_water_sensor))
 
   Don't your plants have enough water?
   
@@ -67,7 +67,7 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
 
 ## Archived
 
-Projects I'm not currently working on. They could work, but I guarantee nothing when you use these.
+Projects I'm not currently working on. They could work, but I don't guarantee anything when you use these.
 
 * [Show or Hide All Apps](https://projects.romeinvanburen.nl/show-hide-apps/) ([`garraflavatra/show-hide-apps`](https://github.com/garraflavatra/show-hide-apps))
 
