@@ -1,5 +1,6 @@
 Welcome! This is a list of open source GitHub-hosted projects I work on. Currently, this list consists of:
 
+- [Games](#games)
 - [JavaScript libraries](#javascript-libraries)
 - [CLIs](#clis)
 - [CSS frameworks](#css-frameworks)
@@ -9,6 +10,12 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
 - [Archived projects](#archived)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garraflavatra&layout=compact">
+
+## Games
+
+* [Sidekick](https://sidekickgame.netlify.app) ([`garraflavatra/sidekick`](https://github.com/garraflavatra/sidekick))
+  
+  Semi-Pong game written in Svelte.
 
 ## JavaScript libraries
 
