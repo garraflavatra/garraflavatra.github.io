@@ -22,6 +22,10 @@ Welcome! This is a list of open source GitHub-hosted projects I work on. Current
 * [Alphabets](https://projects.romeinvanburen.nl/alphabets/) ([`garraflavatra/alphabets`](https://github.com/garraflavatra/alphabets))
   
   A tiny JS dependency which exports many alphabets for many use cases.
+
+* SvelteKit template ([`garraflavatra/sveltekit-template`](https://github.com/garraflavatra/sveltekit-template))
+  
+  Template for [SvelteKit](https://kit.svelte.dev) with useful preconfigured tools.
   
 ## CLIs
 
