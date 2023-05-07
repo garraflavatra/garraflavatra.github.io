@@ -4,7 +4,7 @@ Welcome! This is a list of open source projects I work on. Currently, this list 
 - [JavaScript](#javascript)
 - [Games](#games)
 - [Raspberry Pi](#raspberry-pi)
-- [Archived projects](./archived.html)
+- [Archived projects](https://github.com/garraflavatra/garraflavatra.github.io/blob/main/archived.md)
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=garraflavatra&layout=compact">
 
